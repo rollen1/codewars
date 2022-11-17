@@ -1,0 +1,24 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "js": "nodemon ./8kyu/array-madness.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rollen1/codewars.git"
+  },
+  "keywords": [],
+  "author": "rollen1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rollen1/codewars/issues"
+  },
+  "homepage": "https://github.com/rollen1/codewars#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
